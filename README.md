@@ -1,1 +1,3 @@
-# python-notes
+# numpy notes 
+
+*topic covered*
